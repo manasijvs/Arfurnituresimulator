@@ -46,7 +46,7 @@ Follow these steps to install and build the FurnitureSimulator:
 
 - **Click on Add and select the cloned project folder**:
   
-- **Ensure you're using a compatible Unity version (e.g., Unity 2021.3 or later)**
+- **Ensure you're using a compatible Unity version (e.g., Unity 2021.3 or later)**<br>
 3. **Install Vuforia Engine**
 - **Go to Window → Package Manager**
 
