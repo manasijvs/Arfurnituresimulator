@@ -39,7 +39,7 @@ Follow these steps to install and build the FurnitureSimulator:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/Arfurnituresimulator.git
+   git clone https://github.com/manasijvs/Arfurnituresimulator.git
    cd Arfurnituresimulator 
 2. **Open in Unity**
 - **Launch Unity Hub**
@@ -47,3 +47,11 @@ Follow these steps to install and build the FurnitureSimulator:
 - **Click on Add and select the cloned project folder**:
   
 - **Ensure you're using a compatible Unity version (e.g., Unity 2021.3 or later)**
+3. **Install Vuforia Engine**
+- **Go to Window → Package Manager**
+
+- **Click on the + button → Add package from git URL**:
+  
+- **Use the official Vuforia Git URL**
+  ```bash
+  https://github.com/Vuforia/vuforia-unity-android-samples.git
