@@ -35,9 +35,10 @@ As the primary IDE for development
 - **Vuforia Engine**: <br>
 For implementing augmented reality (AR) functionality
 # Installation and Build
-Follow these steps to install and build the Furniture Selection Simulator:
+Follow these steps to install and build the FurnitureSimulator:
 
 1. **Clone the Repository**  
    ```bash
    git clone https://github.com/your-username/Arfurnituresimulator.git
    cd Arfurnituresimulator 
+2. 
