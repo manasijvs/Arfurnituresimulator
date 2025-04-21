@@ -57,3 +57,17 @@ Follow these steps to install and build the FurnitureSimulator:
   ```bash
   https://github.com/Vuforia/vuforia-unity-android-samples.git
 - **Alternatively, install from the Unity Asset Store if using the Vuforia Core Samples**
+
+4. **Set Up Vuforia Configuration**
+- **Go to File → Build Settings → Player Settings → XR Settings**
+
+- **Enable Vuforia Augmented Reality support**
+  
+- **Add your Vuforia license key in Vuforia Configuration**
+
+5. **Build the Project**
+- **Go to File → Build Settings**
+
+- **Choose your target platform (e.g., Android)**
+  
+- **Click Build and Run**
