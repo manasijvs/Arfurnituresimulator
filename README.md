@@ -37,18 +37,18 @@ For implementing augmented reality (AR) functionality
 # Installation and Build
 Follow these steps to install and build the FurnitureSimulator:
 
-1. **Clone the Repository**  
+1. ### Clone the Repository 
    ```bash
    git clone https://github.com/manasijvs/Arfurnituresimulator.git
    cd Arfurnituresimulator 
-2. **Open in Unity**
+2. ### Open in Unity
 - **Launch Unity Hub**
 
 - **Click on Add and select the cloned project folder**:
   
 - **Ensure you're using a compatible Unity version (e.g., Unity 2021.3 or later)**
 
-3. **Install Vuforia Engine**
+3. ### Install Vuforia Engine
 - **Go to Window → Package Manager**
 
 - **Click on the + button → Add package from git URL**:
@@ -58,14 +58,14 @@ Follow these steps to install and build the FurnitureSimulator:
   https://github.com/Vuforia/vuforia-unity-android-samples.git
 - **Alternatively, install from the Unity Asset Store if using the Vuforia Core Samples**
 
-4. **Set Up Vuforia Configuration**
+4. ### Set Up Vuforia Configuration
 - **Go to File → Build Settings → Player Settings → XR Settings**
 
 - **Enable Vuforia Augmented Reality support**
   
 - **Add your Vuforia license key in Vuforia Configuration**
 
-5. **Build the Project**
+5. ### Build the Project
 - **Go to File → Build Settings**
 
 - **Choose your target platform (e.g., Android)**
