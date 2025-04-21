@@ -56,3 +56,4 @@ Follow these steps to install and build the FurnitureSimulator:
 - **Use the official Vuforia Git URL**
   ```bash
   https://github.com/Vuforia/vuforia-unity-android-samples.git
+- **Alternatively, install from the Unity Asset Store if using the Vuforia Core Samples**
