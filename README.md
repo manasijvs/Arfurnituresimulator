@@ -6,11 +6,14 @@ The navigation is designed for ease of use, enabling players to cycle through fu
 This project demonstrates practical Unity concepts such as scene management, object pooling, persistent data storage, and user interface design, making it a strong foundation for expanding into more complex simulation or AR/VR environments.
 # Features
 - Interactive Selection System:
-- Players can smoothly browse through different furniture models using Next and Previous buttons, with circular navigation for seamless transitions.
+Players can smoothly browse through different furniture models using Next and Previous buttons, with circular navigation for seamless transitions.
+
 - Smart Scene Management:
-- Only the selected furniture model remains active, keeping the scene clutter-free and focused.
+Only the selected furniture model remains active, keeping the scene clutter-free and focused.
+
 - Persistent Selection:
-- The system remembers the previously chosen model, allowing users to pick up where they left off.
+The system remembers the previously chosen model, allowing users to pick up where they left off.
+
 - Gameplay Integration:
-- Once a model is selected, it is stored and carried into the Gameplay Scene, where the selected furniture is showcased.
+Once a model is selected, it is stored and carried into the Gameplay Scene, where the selected furniture is showcased.
 
