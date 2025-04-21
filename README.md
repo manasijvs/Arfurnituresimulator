@@ -41,4 +41,9 @@ Follow these steps to install and build the FurnitureSimulator:
    ```bash
    git clone https://github.com/your-username/Arfurnituresimulator.git
    cd Arfurnituresimulator 
-2. 
+2. **Open in Unity**
+- **Launch Unity Hub**
+
+- **Click on Add and select the cloned project folder**:
+  
+- **Ensure you're using a compatible Unity version (e.g., Unity 2021.3 or later)**
