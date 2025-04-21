@@ -71,3 +71,24 @@ Follow these steps to install and build the FurnitureSimulator:
 - **Choose your target platform (e.g., Android)**
   
 - **Click Build and Run**
+
+### 1. App Launch & Initialization
+- The user opens the application.
+- Any previously selected furniture model is retrieved, ensuring a smooth experience.
+
+### 2. Furniture Selection
+- Users navigate through different furniture models using **Next** and **Previous** buttons.
+- **Circular navigation** allows seamless browsing through available options.
+- Once a preferred furniture model is selected, the system stores the choice.
+
+### 3. Marker Scanning
+- The user scans a **marker** (a predefined image or object) using the device’s camera.
+- The system detects the marker and positions the selected furniture at the scanned location.
+
+### 4. Furniture Display & Customization
+- The chosen furniture model appears on the screen in **augmented reality**.
+- Users can change the furniture’s **orientation** (rotate, move, or resize it as needed).
+- Users can **customize the color** to match their preference.
+
+### 5. Gameplay Scene Transition
+- Once satisfied with the selection, users proceed to the **Gameplay Scene**, where the chosen furniture remains in place. 
