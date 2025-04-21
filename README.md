@@ -72,6 +72,7 @@ Follow these steps to install and build the FurnitureSimulator:
   
 - **Click Build and Run**
 
+## App Workflow
 ### 1. App Launch & Initialization
 - The user opens the application.
 - Any previously selected furniture model is retrieved, ensuring a smooth experience.
