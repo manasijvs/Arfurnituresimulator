@@ -17,9 +17,18 @@ The system remembers the previously chosen model, allowing users to pick up wher
 - Gameplay Integration:<br>
 Once a model is selected, it is stored and carried into the Gameplay Scene, where the selected furniture is showcased.
 # Technologies Used
-- **Unity Enginefor building and running the 3D simulation environment  
-- **C#** – for writing scripts to control logic, UI navigation, and scene transitions  
-- **Git & GitHub** – for version control and project collaboration  
-- **Git LFS (Large File Storage)** – for managing large assets like `.fbx` model files  
-- **Visual Studio / VS Code** – as the primary IDE for development  
+- **Unity Engine**:<br>
+For building and running the 3D simulation environment
+
+- **C#**:<br>
+For writing scripts to control logic, UI navigation, and scene transitions
+  
+- **Git & GitHub**:<br>
+For version control and project collaboration
+  
+- **Git LFS (Large File Storage)**:<br>
+For managing large assets like `.fbx` model files
+
+- **Visual Studio / VS Code**:<br>
+As the primary IDE for development  
 
